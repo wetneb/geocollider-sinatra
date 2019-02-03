@@ -28,7 +28,7 @@ GEM
     domain_name (0.5.20170404)
       unf (>= 0.0.5, < 1.0.0)
     execjs (2.7.0)
-    ffi (1.9.21)
+    ffi (1.10.0)
     haml (4.0.7)
       tilt
     highline (1.7.10)
